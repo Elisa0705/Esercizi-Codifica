@@ -1,0 +1,28 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<!--utilizzare puntatori, note, lista, glossario marcare nomi, rs, term-->
+
+<TEI>
+    <teiHeader>
+    </teiHeader>
+    <text>
+        <!--esempio puntatori-->
+        <p> vedi capitolo <ref> secondo capitolo, p.61 </ref></p>
+        <!-- esempio note-->
+        <note> semplice nota</note>
+        <!-- esempio lista-->
+        <list type ="simple">
+            <head> lista spesa </head>
+            <item> zucchine </item>
+            <item> mozzarella </item>
+            <item> yogurt </item>
+        </list>
+        <!-- esempio glossario e term-->
+        <term> Barocco </term> <gloss> è stato un movimento estetico, ideologico e culturale sorto in Italia tra la fine del XVI e l'inizio del XVII secolo</gloss>
+        <!-- esempio rs-->
+        <q> caro <rs type="person"> Stefano </rs> </q>
+        <!-- marcare nome-->
+        <q> caro <name type="person"> Stefano </name> </q>
+    </text>
+</TEI>
+ 

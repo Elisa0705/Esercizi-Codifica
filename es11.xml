@@ -1,0 +1,51 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<!--codificare usando gli opportuni elementi TEI un articolo di rivista-->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bollettino de Il Mattino sul Covid</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>E.Gulino</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date>2021-30-05</date>
+                <avaiability status="restricted"></avaiability> 
+            </publicationStmt>
+            <sourceDesc>
+                <title>Covid Italia, bollettino oggi 12 giugno 2021: 1.723 casi e 52 morti. Tasso di positività in calo al 0,8%</title>
+                <publisher>IL MATTINO</publisher>
+                <date>2021-12-06</date>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Covid Italia, il bollettino di oggi 12 giugno 2021: sono 1.723 i positivi al test del coronavirus in Italia 
+			nelle ultime 24 ore, secondo i dati del ministero della Salute. Ieri erano stati 1.901. Sono invece 52 le vittime in un giorno,
+			mentre ieri erano state 69. Sono 212.966 i tamponi molecolari e antigenici per il coronavirus effettuati nelle ultime 24 ore 
+			in Italia, secondo i dati del ministero della Salute. Ieri erano stati 217.610. Il tasso di positività è dello 0,8%,
+			in ulteriore calo rispetto allo 0,9% di ieri.</p>
+            <p>Nell'ultima giornata -13 ricoverati per Covid-19 nelle Marche e, per il secondo giorno consecutivo, nessun decesso 
+			correlato (il totale regionale vittime resta 3.205). Ora sono 67, comunica il Servizio Sanità della Regione, i ricoveri 
+			nelle strutture ospedaliere marchigiane: 10 in Terapia intensiva (invariato), 18 in Semintensiva (-7) e 39 in reparti non 
+			intensiva (-6). Otto le persone dimesse in 24ore. Stabili dati riguardanti gli ospiti di strutture territoriali (65) e i
+			pronto soccorso che restano Covid-free. In discesa il numero di positivi in isolamento domiciliare (2.803; -90) e le 
+			quarantene per contatto con positivi (3.104; -40). I guariti/dimessi aumentano a 97.483 (+137). I totale dei positivi 
+			(isolati più ricoverati) passa a 2.870 (-103).</p>
+            <p>Sono 29 i nuovi casi di Covid-19 accertati nelle ultime ore in Abruzzo. Sono emersi dall'analisi di 3.069 tamponi 
+			molecolari: è risultato positivo lo 0,94% dei campioni. Scendono ancora i ricoveri, che passano dagli 80 di ieri ai 72 di oggi.
+			Due i decessi recenti: il bilancio delle vittime sale a 2.502. I nuovi positivi hanno età compresa tra 4 e 77 anni. 
+			Gli attualmente positivi sono 1.516: 68 pazienti sono ricoverati in area medica (-8) e 4 in terapia intensiva (invariato), 
+			mentre gli altri 1.444 sono in isolamento domiciliare (-8). I guariti sono 70.432 (+43). A livello territoriale, l'incremento 
+			più consistente si registra nell'Aquilano (18), seguito dal Chietino (7), dal Teramano (5) e dal Pescarese (1).
+			L'incidenza settimanale dei contagi per centomila abitanti in Abruzzo scende a 17 (per la zona bianca deve essere inferiore
+			a 50). La situazione migliore è quella del Teramano, che ha un'incidenza pari a 5. Seguono il Chietino (15), il Pescarese (21) 
+			e la provincia dell'Aquila (43). </p> 
+        </body>
+    </text>
+</TEI>
